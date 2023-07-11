@@ -1,0 +1,97 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John",
+      "email": "john@example.com",
+      "age": 18
+    },
+    {
+      "id": 2,
+      "name": "Tom",
+      "email": "Tom@example.com",
+      "age": 20
+    },
+    {
+      "id": 3,
+      "name": "Jack",
+      "email": "Jack@example.com",
+      "age": 25
+    },
+    {
+      "id": 4,
+      "name": "Faisal",
+      "email": "faisal@example.com",
+      "age": 18
+    },
+    {
+      "id": 5,
+      "name": "Faisal Haroon Awan",
+      "email": "ferozkhan@example.com",
+      "age": 24
+    }
+  ],
+
+  "post": [
+    {
+      "id": 6,
+      "userid": 1,
+      "title": " The case against rearrangement of local sovereign debt",
+      "description": "no THERE has been talk lately about the requirem­ent of local currency debt rearrangement for Pakis­tan, necessitated by the fact that the government’s debt servicing, budgeted for 2023-24 at Rs7.4 trillion, has increased to approximately 75 per cent of total tax collection and exceeds the net revenues, after transfer to provinces, of Rs6.9tn. yet"
+    },
+    {
+      "id": 7,
+      "userid": 2,
+      "title": "The mystery of Karachi’s deadliest cyclone … that never happened",
+      "description": "When I started looking at historical data, I found that Karachi was hit by the deadliest cyclone in its history, Cyclone 013A, resulting in the deaths of around 10,000 people, on December 15, 1965. On closer inspection, however, the information becomes confusing and the question arises: where did the number of 10,000 fatalities come from? More importantly, did a cyclone even hit the coastal areas of the Arabian Sea that year? description yet"
+    },
+    {
+      "id": 8,
+      "userid": 3,
+      "title": " Why India’s Supreme Court must undo the Modi govt’s move to usurp Kashmiris’ rights",
+      "description": "no The petitions, to be taken up by a five-judge bench headed by Chief Justice of India DY Chandrachud, will be heard almost four years after the Indian government reconstituted the state of Jammu and Kashmir into the two ‘union territories’ of J&K and Ladakh in August 2019. yet"
+    },
+    {
+      "id": 9,
+      "userid": 4,
+      "title": " A unique and luxurious sustainable living experience in Rawalpindi",
+      "description": "no Raising the bar for modern living in Gujar Khan, Mega City is a groundbreaking housing society that seamlessly blends comfort and convenience with elegance and sophistication. With a robust infrastructure and a full suite of unparalleled amenities, this sprawling real estate project is set to enhance the urban landscape of the Rawalpindi District and thus becoming a roaring success among those seeking to invest in the swiftly expanding Gujar Khan, Rawalpindi District. yet"
+    },
+    {
+      "id": 10,
+      "userid": 5,
+      "title": "Twitter better for ‘freedom of speech’, says senior Afghan Taliban official",
+      "description": "Twitter owner Elon Musk’s freewheeling approach to the platform’s handling of censorship has won support from an unlikely quarter — Afghanistan’s Taliban."
+    },
+    {
+      "id": 11,
+      "userid": 3,
+      "title": "Indian SC to hold ‘day-to-day’ hearings on pleas against removal of occupied Kashmir’s special status",
+      "description": "The Supreme Court of India has decided to conduct “day-to-day” hearings on a set of petitions challenging the abrogation of occupied Kashmir’s special status from August 2, Indian media outlets reported on Tuesday."
+    },
+    {
+      "id": 12,
+      "userid": 4,
+      "title": "BBC pauses investigation into sex photo allegations after meeting police",
+      "description": "The BBC said on Tuesday it had paused its investigation into a presenter accused of paying a young person for explicit images, saying its review was on hold while the police examined the circumstances."
+    },
+    {
+      "id": 13,
+      "userid": 3,
+      "title": "Nato wrestles with Ukraine bid at summit on Russia doorstep",
+      "description": "Nato leaders grapple with Ukraine’s membership ambitions at their summit on Tuesday, their determination to face down Russia boosted by a breakthrough in Sweden’s bid to join the alliance."
+    },
+    {
+      "id": 14,
+      "userid": 1,
+      "title": "Nepal retrieves bodies of 6 dead in helicopter crash, 5 Mexicans among the ",
+      "description": "Authorities in Nepal have retrieved the bodies of all six people killed in a helicopter crash on Tuesday, including five Mexican nationals, authorities said, the latest in a series of air disasters to strike the Himalayan nation."
+    },
+    {
+      "id": 15,
+      "userid": 4,
+      "title": " Sextortion, Covid lockdown, childlessness and Pak-Indo bromance — what a mess!",
+      "description": "Writer-producer Mashooq Qadri’s film, directed by cinematographer-turned-director Saleem Daad, scribbles a parallel between Kamaal and Armaan’s seemingly flimsy bond and the Indo-Pak relations, and implies that, if given an empathic, human touch, diplomacy might lead to cross-border peace."
+    }
+  ]
+}
