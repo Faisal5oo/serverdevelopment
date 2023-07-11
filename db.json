@@ -31,7 +31,6 @@
       "age": 24
     }
   ],
-
   "post": [
     {
       "id": 6,
@@ -92,6 +91,12 @@
       "userid": 4,
       "title": " Sextortion, Covid lockdown, childlessness and Pak-Indo bromance — what a mess!",
       "description": "Writer-producer Mashooq Qadri’s film, directed by cinematographer-turned-director Saleem Daad, scribbles a parallel between Kamaal and Armaan’s seemingly flimsy bond and the Indo-Pak relations, and implies that, if given an empathic, human touch, diplomacy might lead to cross-border peace."
+    },
+    {
+      "userid": 1,
+      "title": " The case against rearrangement of local sovereign debt",
+      "description": "no THERE has been talk lately about the requirem­ent of local currency debt rearrangement for Pakis­tan, necessitated by the fact that the government’s debt servicing, budgeted for 2023-24 at Rs7.4 trillion, has increased to approximately 75 per cent of total tax collection and exceeds the net revenues, after transfer to provinces, of Rs6.9tn. yet",
+      "id": 16
     }
   ]
 }
